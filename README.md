@@ -6,4 +6,4 @@ Nice to meet you, I am Frederick Pruitt. Tech Enthusiast with a background in se
 
 Nothing like getting your hands dirty. Below are a few projects I recently finished or currently working on. Over the next few years I'll be developing for fun and professionally. Check em out!!
 
-### Github projects
+### Github projects 😎
